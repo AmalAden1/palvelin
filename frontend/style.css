@@ -1,0 +1,17 @@
+#footer{
+    background-color: cadetblue;
+    position: fixed;
+    min-height: 200px;
+    left:0%;
+    bottom:0%;
+    width:100%;
+    color:darkred;
+    text-align:center;
+    
+    
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cadetblue;
+    
+}
